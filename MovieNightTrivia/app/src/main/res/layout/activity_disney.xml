@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="com.example.android.movienighttrivia.Disney">
+
+    <LinearLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="223dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/princess" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@android:color/white" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@color/brown" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <!--Question 1-->
+            <TextView
+                android:id="@+id/questions"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ1"/>
+
+            <RadioGroup
+                android:id="@+id/question1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q1A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ1A1" />
+                <RadioButton
+                    android:id="@+id/Q1A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ1A2"/>
+                <RadioButton
+                    android:id="@+id/Q1A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ1A3" />
+                <RadioButton
+                    android:id="@+id/Q1A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ1A4" />
+            </RadioGroup>
+
+            <!--Question 2-->
+            <TextView
+                android:id="@+id/question2"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ2"/>
+
+            <RadioGroup
+                android:id="@+id/question_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q2A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ2A1" />
+                <RadioButton
+                    android:id="@+id/Q2A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ2A2" />
+                <RadioButton
+                    android:id="@+id/Q2A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ2A3" />
+                <RadioButton
+                    android:id="@+id/Q2A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ2A4" />
+            </RadioGroup>
+
+            <!--Question 3-->
+            <TextView
+                android:id="@+id/question3"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ3"/>
+
+            <RadioGroup
+                android:id="@+id/question_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q3A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ3A1" />
+                <RadioButton
+                    android:id="@+id/Q3A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ3A2" />
+                <RadioButton
+                    android:id="@+id/Q3A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ3A3" />
+                <RadioButton
+                    android:id="@+id/Q3A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ3A4" />
+            </RadioGroup>
+
+            <!--Question 4-->
+            <TextView
+                android:id="@+id/question4"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ4"/>
+
+            <RadioGroup
+                android:id="@+id/question_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q4A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ4A1" />
+                <RadioButton
+                    android:id="@+id/Q4A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ4A2" />
+                <RadioButton
+                    android:id="@+id/Q4A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ4A3" />
+                <RadioButton
+                    android:id="@+id/Q4A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ4A4" />
+            </RadioGroup>
+
+            <!--Question 5-->
+            <TextView
+                android:id="@+id/question5"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ5"/>
+
+            <RadioGroup
+                android:id="@+id/question_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q5A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ5A1" />
+                <RadioButton
+                    android:id="@+id/Q5A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ5A2" />
+                <RadioButton
+                    android:id="@+id/Q5A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ5A3" />
+                <RadioButton
+                    android:id="@+id/Q5A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ5A4" />
+            </RadioGroup>
+
+            <!--Question 6-->
+            <TextView
+                android:id="@+id/question6"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ6"/>
+
+            <EditText
+                android:id="@+id/question_6"
+                style="@style/disneyA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter answer here..."
+                android:inputType="text"
+                android:maxLength="20" />
+
+            <!--Question 7-->
+            <TextView
+                android:id="@+id/question7"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ7"/>
+
+            <RadioGroup
+                android:id="@+id/question_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q7A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ7A1" />
+                <RadioButton
+                    android:id="@+id/Q7A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ7A2" />
+                <RadioButton
+                    android:id="@+id/Q7A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ7A3" />
+                <RadioButton
+                    android:id="@+id/Q7A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ7A4" />
+            </RadioGroup>
+
+            <!--Question 8-->
+            <TextView
+                android:id="@+id/question8"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ8"/>
+
+            <RadioGroup
+                android:id="@+id/question_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q8A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ8A1" />
+                <RadioButton
+                    android:id="@+id/Q8A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ8A2" />
+                <RadioButton
+                    android:id="@+id/Q8A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ8A3" />
+                <RadioButton
+                    android:id="@+id/Q8A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ8A4" />
+            </RadioGroup>
+
+            <!--Question 9-->
+            <TextView
+                android:id="@+id/question9"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ9"/>
+
+            <CheckBox
+                android:id="@+id/Q9A1"
+                style="@style/disneyA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="@string/disneyQ9A1" />
+            <CheckBox
+                android:id="@+id/Q9A2"
+                style="@style/disneyA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="@string/disneyQ9A2" />
+            <CheckBox
+                android:id="@+id/Q9A3"
+                style="@style/disneyA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="@string/disneyQ9A3" />
+            <CheckBox
+                android:id="@+id/Q9A4"
+                style="@style/disneyA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:text="@string/disneyQ9A4" />
+
+            <!--Question 10-->
+            <TextView
+                android:id="@+id/question10"
+                style="@style/disney"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disneyQ10"/>
+
+            <RadioGroup
+                android:id="@+id/question_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/Q10A1"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ10A1" />
+                <RadioButton
+                    android:id="@+id/Q10A2"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ10A2" />
+                <RadioButton
+                    android:id="@+id/Q10A3"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ10A3" />
+                <RadioButton
+                    android:id="@+id/Q10A4"
+                    style="@style/disneyA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/disneyQ10A4" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/brown"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="getScore"
+                android:text="Submit Answers"
+                android:textAlignment="center" />
+            <TextView
+                android:id="@+id/score_"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

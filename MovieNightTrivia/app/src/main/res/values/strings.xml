@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Movie Night Trivia</string>
+    <string name="gameInfo">Welcome to Jack \'n the Box Quiz Shop!
+        Here you have three choices; Dive deep into the world of Disney Fairy Tales,
+        pay a visit to the land of Muggles and Wizards in Harry Potter or dive deep into the sea
+        visit a local sponge in Bikini Bottom.
+        May the odds be ever in your favor :)</string>
+
+    <!--Disney Category Questions-->
+    <string name="disneyQ1">1. What is the name of Tarzan\'s adoptive gorilla mom?</string>
+        <!--Options-->
+        <string name="disneyQ1A1">Kala</string>
+        <string name="disneyQ1A2">Nala</string>
+        <string name="disneyQ1A3">Tala</string>
+        <string name="disneyQ1A4">Mala</string>
+    <string name="disneyQ2">2. Who was the first disney Princess?</string>
+        <!--Options-->
+        <string name="disneyQ2A1">Aurora</string>
+        <string name="disneyQ2A2">Snow White</string>
+        <string name="disneyQ2A3">Cinderella</string>
+        <string name="disneyQ2A4">Anastasia</string>
+    <string name="disneyQ3">3. Where do the lions live in the Lion King?</string>
+        <!--Options-->
+        <string name="disneyQ3A1">Pride Land</string>
+        <string name="disneyQ3A2">Pride Rock</string>
+        <string name="disneyQ3A3">Pride King</string>
+        <string name="disneyQ3A4">Pride Valley</string>
+    <string name="disneyQ4">4. What time does the royal ball start in Cinderella?</string>
+        <!--Options-->
+        <string name="disneyQ4A1">9:00PM</string>
+        <string name="disneyQ4A2">8:00PM</string>
+        <string name="disneyQ4A3">5:00PM</string>
+        <string name="disneyQ4A4">6:00PM</string>
+    <string name="disneyQ5">5. What animal does the Sultan\'s throne resemble in Alladin?</string>
+        <!--Options-->
+        <string name="disneyQ5A1">Gorilla</string>
+        <string name="disneyQ5A2">Elephant</string>
+        <string name="disneyQ5A3">Lion</string>
+        <string name="disneyQ5A4">Camel</string>
+    <string name="disneyQ6">6. Which Disney princess has no royal ties?</string>
+    <string name="disneyQ7">7. What country is Belle from in Beauty and the Beast?</string>
+        <!--Options-->
+        <string name="disneyQ7A1">Sweden</string>
+        <string name="disneyQ7A2">United States</string>
+        <string name="disneyQ7A3">France</string>
+        <string name="disneyQ7A4">Canada</string>
+    <string name="disneyQ8">8. Which Disney princess has the ability to heal others?</string>
+        <!--Options-->
+        <string name="disneyQ8A1">Snow White</string>
+        <string name="disneyQ8A2">Rapunzel</string>
+        <string name="disneyQ8A3">Jasmine</string>
+        <string name="disneyQ8A4">Ariel</string>
+    <string name="disneyQ9">9. Who aren\'t official Disney Princes?</string>
+        <!--Options-->
+        <string name="disneyQ9A1">Alladin</string>
+        <string name="disneyQ9A2">Tarzan</string>
+        <string name="disneyQ9A3">Eric</string>
+        <string name="disneyQ9A4">Hercules</string>
+    <string name="disneyQ10">10. How long has the curse been over the castle in Beauty and the Beast?</string>
+        <!--Options-->
+        <string name="disneyQ10A1">15 years</string>
+        <string name="disneyQ10A2">5 years</string>
+        <string name="disneyQ10A3">12 years</string>
+        <string name="disneyQ10A4">10 years</string>
+
+    <!--Harry Potter Category Questions-->
+    <string name="harryQ1">1. What is Lord Voldemort\'s real name?</string>
+        <!--Options-->
+        <string name="harryQ1A1">Morfin Gaunt</string>
+        <string name="harryQ1A2">Salazar Slytherin</string>
+        <string name="harryQ1A3">Tom Marvolo Riddle</string>
+        <string name="harryQ1A4">Gellert Grindelward</string>
+    <string name="harryQ2">2. How many points is the Golden Snitch worth</string>
+        <!--Options-->
+        <string name="harryQ2A1">30</string>
+        <string name="harryQ2A2">150</string>
+        <string name="harryQ2A3">50</string>
+        <string name="harryQ2A4">100</string>
+    <string name="harryQ3">3. What animal represents the Gryffindor house?</string>
+        <!--Options-->
+        <string name="harryQ3A1">A Eadger</string>
+        <string name="harryQ3A2">An Eagle</string>
+        <string name="harryQ3A3">A Lion</string>
+        <string name="harryQ3A4">A Snake</string>
+    <string name="harryQ4">4. Who was the original owner of the Sorting Hat?</string>
+        <!--Options-->
+        <string name="harryQ4A1">Rowena Ravenclaw</string>
+        <string name="harryQ4A2">Salazar Slytherin</string>
+        <string name="harryQ4A3">Godric Gryffindor</string>
+        <string name="harryQ4A4">Helga Hufflepuff</string>
+    <string name="harryQ5">5. How does Harry manage to breathe underwater during the second task of the Triwizard Tournament?</string>
+        <!--Options-->
+        <string name="harryQ5A1">He kisses a mermaid</string>
+        <string name="harryQ5A2">He eats gillyweed</string>
+        <string name="harryQ5A3">He transfigures into a shark</string>
+        <string name="harryQ5A4">He performs a bubble-head charm</string>
+    <string name="harryQ6">6. What are the names of Ron Weasley\'s twin brothers?</string>
+        <!--Options-->
+        <string name="harryQ6A1">Tom and Greg</string>
+        <string name="harryQ6A2">Greg and Fred</string>
+        <string name="harryQ6A3">Charles and Greg</string>
+        <string name="harryQ6A4">Fred and George</string>
+    <string name="harryQ7">7. Which of these are Unforgivable curses?</string>
+        <!--Options-->
+        <string name="harryQ7A1">Cruciatus Curse</string>
+        <string name="harryQ7A2">Imperius</string>
+        <string name="harryQ7A3">Sectumsempra</string>
+        <string name="harryQ7A4">Avada Kedavra</string>
+    <string name="harryQ8">8. Who gaurds the entrance to the Gryffindor common room?</string>
+        <!--Options-->
+        <string name="harryQ8A1">The Fair Lady</string>
+        <string name="harryQ8A2">The Fat Lady</string>
+        <string name="harryQ8A3">The Bloody Baron</string>
+        <string name="harryQ8A4">The Grey Lady</string>
+    <string name="harryQ9">9. A wizard who cannot do magic is known as a: </string>
+        <!--Options-->
+        <string name="harryQ9A1">Muggle</string>
+        <string name="harryQ9A2">Squib</string>
+        <string name="harryQ9A3">Bleaker</string>
+        <string name="harryQ9A4">Mudblood</string>
+    <string name="harryQ10">10. What does one say to close the Marauder\'s Map and make it blank again?</string>
+        <!--Options-->
+        <string name="harryQ10A1">Mischief managed</string>
+        <string name="harryQ10A2">All done</string>
+        <string name="harryQ10A3">Solemly swear I am up to no good</string>
+        <string name="harryQ10A4">Nothing to see here</string>
+
+    <!--Spongebob Category Questions-->
+    <string name="spongeQ1">1. What instrument does Squidward like to play?</string>
+    <!--Options-->
+        <string name="spongeQ1A1">Saxophone</string>
+        <string name="spongeQ1A2">Trumpet</string>
+        <string name="spongeQ1A3">Clarinet</string>
+        <string name="spongeQ1A4">Flute</string>
+    <string name="spongeQ2">2. Who is the fish who always says "My Legs!"?</string>
+    <!--Options-->
+        <string name="spongeQ2A1">Mark</string>
+        <string name="spongeQ2A2">Moe</string>
+        <string name="spongeQ2A3">Fred</string>
+        <string name="spongeQ2A4">Tom</string>
+    <string name="spongeQ3">3. What does SpongeBob name his Jellyfishing net?</string>
+    <!--Options-->
+        <string name="spongeQ3A1">Old Faithful</string>
+        <string name="spongeQ3A2">Old Reliable</string>
+        <string name="spongeQ3A3">Jellyfish Hunter</string>
+        <string name="spongeQ3A4">Jelly</string>
+    <string name="spongeQ4">4. What magazine does Squidward have a lifetime subscription to?</string>
+        <!--Options-->
+        <string name="spongeQ4A1">Squid Weekly</string>
+        <string name="spongeQ4A2">Fancy Living Digest</string>
+        <string name="spongeQ4A3">Undiscovered Talent</string>
+        <string name="spongeQ4A4">The Clarinet Player</string>
+    <string name="spongeQ5">5. What is Plankton\'s first name?</string>
+        <!--Options-->
+        <string name="spongeQ5A1">Eugene</string>
+        <string name="spongeQ5A2">Sheldon</string>
+        <string name="spongeQ5A3">Kyle</string>
+        <string name="spongeQ5A4">Kris</string>
+    <string name="spongeQ6">6. What event did Squidward\'s band play at in the episode "Band Geeks"?</string>
+        <!--Options-->
+        <string name="spongeQ6A1">Super Bowl</string>
+        <string name="spongeQ6A2">Bubble Bowl</string>
+        <string name="spongeQ6A3">Bikini Bottom Bowl</string>
+        <string name="spongeQ6A4">Bikini Bowl</string>
+    <string name="spongeQ7">7. When is Spongebob\'s birthdate?</string>
+        <!--Options-->
+        <string name="spongeQ7A1">January 22, 1986</string>
+        <string name="spongeQ7A2">October 10, 1984</string>
+        <string name="spongeQ7A3">June 16, 1992</string>
+        <string name="spongeQ7A4">July 14, 1986</string>
+    <string name="spongeQ8">8. What is Patrick\'s last name?</string>
+        <!--Options-->
+        <string name="spongeQ8A1">Fish</string>
+        <string name="spongeQ8A2">Pink</string>
+        <string name="spongeQ8A3">Starfish</string>
+        <string name="spongeQ8A4">Star</string>
+    <string name="spongeQ9">9. What ride were Spongebob and Patrick scared to ride?</string>
+        <!--Options-->
+        <string name="spongeQ9A1">Ride of Terror</string>
+        <string name="spongeQ9A2">Fist of Glory</string>
+        <string name="spongeQ9A3">Fist\'O Pain</string>
+        <string name="spongeQ9A4">Tower of Terror</string>
+    <string name="spongeQ10">10. Where is Sandy originally from?</string>
+        <!--Options-->
+        <string name="spongeQ10A1">Alabama</string>
+        <string name="spongeQ10A2">Kentucky</string>
+        <string name="spongeQ10A3">Texas</string>
+        <string name="spongeQ10A4">Bikini Bottom</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="disney">
+        <item name="android:textColor">#FF3D2212</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:background">#FFF2B754</item>
+    </style>
+
+    <style name="disneyA">
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">#dfd9ce</item>
+    </style>
+
+    <style name="harry">
+        <item name="android:textColor">@color/tan</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:background">@color/darkBlue</item>
+    </style>
+
+    <style name="harryA">
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@color/tan</item>
+    </style>
+
+    <style name="sponge">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:background">@color/yellow</item>
+    </style>
+
+    <style name="spongeA">
+        <item name="android:textColor">@color/yellow</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">#565656</item>
+    </style>
+
+</resources>

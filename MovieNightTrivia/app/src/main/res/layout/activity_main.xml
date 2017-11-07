@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="com.example.android.movienighttrivia.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <!-- Header Banner-->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="192dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/header" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:background="@color/lightBlue" />
+        <!-- Brief intro-->
+        <TextView
+            android:id="@+id/intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gameInfo"
+            android:textAlignment="center"
+            android:textSize="21sp" />
+
+        <!-- Categories: Disney, Harry Potter, High School Musical-->
+        <!-- Line break-->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@color/brown" />
+
+        <!--First Category: Disney Movies-->
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="118dp"
+            android:background="@color/white"
+            android:onClick="disney"
+            android:scaleType="fitXY"
+            android:src="@drawable/dis" />
+
+        <!-- Line break-->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@color/lightBlue"
+            android:paddingTop="10dp" />
+
+        <!--Second Category: Harry Potter Movies-->
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="136dp"
+            android:background="@color/white"
+            android:onClick="potter"
+            android:scaleType="fitXY"
+            android:src="@drawable/potter" />
+
+        <!-- Line break-->
+        <ImageView
+            android:layout_width="370dp"
+            android:layout_height="10dp"
+            android:background="@color/lightBlue"
+            android:paddingTop="10dp" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="91dp"
+            android:background="@color/white"
+            android:onClick="sponge"
+            android:scaleType="fitXY"
+            android:src="@drawable/sponge" />
+    </LinearLayout>
+
+</ScrollView>
