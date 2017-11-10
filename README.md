@@ -21,24 +21,24 @@ Project from my Androids Basics Udacity Course
 6. ***If necessary, Install any recommended Tool updates.
 ```
 
-### Homepage
-<img src="https://preview.ibb.co/hNd6Aw/Screenshot_2017_11_10_09_32_28.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/juM4xb/Screenshot_2017_11_10_09_33_13.png" border="1" width="270px">
+Homepage | Homepage Scrolled to Bottom
+--------- | ----------
+<img src="https://preview.ibb.co/hNd6Aw/Screenshot_2017_11_10_09_32_28.png" border="1" width="270px"> | <img src="https://preview.ibb.co/juM4xb/Screenshot_2017_11_10_09_33_13.png" border="1" width="270px">
 
 ### Disney Activity
-<img src="https://preview.ibb.co/ihpDqw/Screenshot_2017_11_10_09_33_34.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/jBLa3G/Screenshot_2017_11_10_09_33_44.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/jLtTOG/Screenshot_2017_11_10_09_34_20.png" border="1" width="270px">
+Disney | Cont... | Quiz Results
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/ihpDqw/Screenshot_2017_11_10_09_33_34.png" border="1" width="270px"> | <img src="https://preview.ibb.co/jBLa3G/Screenshot_2017_11_10_09_33_44.png" border="1" width="270px"> | <img src="https://preview.ibb.co/jLtTOG/Screenshot_2017_11_10_09_34_20.png" border="1" width="270px">
 
 ### Harry Potter Activity
-<img src="https://preview.ibb.co/do9rcb/Screenshot_2017_11_10_09_34_52.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/m6XcHb/Screenshot_2017_11_10_09_35_03.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/hBGtqw/Screenshot_2017_11_10_09_35_28.png" border="1" width="270px">
+Harry | Cont... | Quiz Results
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/do9rcb/Screenshot_2017_11_10_09_34_52.png" border="1" width="270px"> | <img src="https://preview.ibb.co/m6XcHb/Screenshot_2017_11_10_09_35_03.png" border="1" width="270px"> | <img src="https://preview.ibb.co/hBGtqw/Screenshot_2017_11_10_09_35_28.png" border="1" width="270px">
 
 ### Spongebob SquarePants Activity
-<img src="https://preview.ibb.co/j6Pk3G/Screenshot_2017_11_10_09_35_44.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/e047Hb/Screenshot_2017_11_10_09_35_53.png" border="1" width="270px">|
-<img src="https://preview.ibb.co/k9yOqw/Screenshot_2017_11_10_09_36_19.png" border="1" width="270px">
+Spongebob | Cont... | Quiz Results
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/j6Pk3G/Screenshot_2017_11_10_09_35_44.png" border="1" width="270px"> | <img src="https://preview.ibb.co/e047Hb/Screenshot_2017_11_10_09_35_53.png" border="1" width="270px"> | <img src="https://preview.ibb.co/k9yOqw/Screenshot_2017_11_10_09_36_19.png" border="1" width="270px">
 
 #### Disclaimer
 ```None of the images used in this app belong to me.```
